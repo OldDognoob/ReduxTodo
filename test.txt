@@ -1,0 +1,2 @@
+A small Redux To Do List with React, hooks and Redux. 
+Something to remember again!
