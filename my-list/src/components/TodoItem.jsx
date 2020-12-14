@@ -1,11 +1,11 @@
 import React from 'react'
 
-function TodoList() {
+function TodoItem() {
     return (
         <div>
-         <h3>TodoList</h3>
+            <h3>TodoItem</h3>
         </div>
     )
 }
 
-export default TodoList
+export default TodoItem
