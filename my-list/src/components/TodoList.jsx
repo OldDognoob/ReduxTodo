@@ -3,8 +3,7 @@ import TodoItem from './TodoItem';
 
 function TodoList() {
     return (
-        <div>
-         <h3>TodoList</h3>
+        <div div className="my-4">
          <TodoItem/>
          <TodoItem/>
          <TodoItem/>
